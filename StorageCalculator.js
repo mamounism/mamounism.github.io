@@ -13,7 +13,7 @@ function EMStorageCalculatorLoadCoDecs()
 			}
 		}
 	
-	xmlhttp.open("GET", "mamounism.github.io/CodecList.json", true);
+	xmlhttp.open("GET", "https://mamounism.github.io/CodecList.json", true);
 	xmlhttp.send();
 	}
 
