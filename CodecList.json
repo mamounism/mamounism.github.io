@@ -1,0 +1,8077 @@
+[
+  {
+    "resolution" : "1080",
+    "codecs" : [
+      {
+        "name" : "AVC Proxy LOW",
+        "datarate" : 1,
+        "framerate" : 0
+      },
+      {
+        "name" : "AVC Proxy HQ",
+        "datarate" : 2,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD proxies only",
+        "datarate" : 2,
+        "framerate" : 0
+      },
+      {
+        "name" : "AVC Proxy SHQ",
+        "datarate" : 4,
+        "framerate" : 0
+      },
+      {
+        "name" : "AVC Proxy G6",
+        "datarate" : 6,
+        "framerate" : 0
+      },
+      {
+        "name" : "HDV",
+        "datarate" : 25,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM EX CBR",
+        "datarate" : 25,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM EX VBR",
+        "datarate" : 25,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD 420 (25)",
+        "datarate" : 25,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD 420 (25) + proxies",
+        "datarate" : 27,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD 420 (35)",
+        "datarate" : 35,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD 420 (35) + proxies",
+        "datarate" : 37,
+        "framerate" : 0
+      },
+      {
+        "name" : "Ikegami GFCAM 50",
+        "datarate" : 50,
+        "framerate" : 0
+      },
+      {
+        "name" : "XAVC-S HD",
+        "datarate" : 50,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD 422",
+        "datarate" : 50,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD 422 + proxies",
+        "datarate" : 52,
+        "framerate" : 0
+      },
+      {
+        "name" : "Cineform Quality 1",
+        "datarate" : 64,
+        "framerate" : 0
+      },
+      {
+        "name" : "Cineform Quality 2",
+        "datarate" : 80,
+        "framerate" : 0
+      },
+      {
+        "name" : "Ikegami GFCAM 100",
+        "datarate" : 100,
+        "framerate" : 0
+      },
+      {
+        "name" : "Cineform Quality 3",
+        "datarate" : 128,
+        "framerate" : 0
+      },
+      {
+        "name" : "Cineform Quality 4",
+        "datarate" : 160,
+        "framerate" : 0
+      },
+      {
+        "name" : "SR Codec SQ",
+        "datarate" : 400,
+        "framerate" : 0
+      },
+      {
+        "name" : "SR Codec HQ",
+        "datarate" : 880,
+        "framerate" : 0
+      },
+      {
+        "name" : "AVC LongG G25",
+        "datarate" : 25,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 Proxy narrow raster",
+        "datarate" : 31,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHD 36",
+        "datarate" : 36,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 36,
+        "framerate" : 24
+      },
+      {
+        "name" : "AVC LongG G50",
+        "datarate" : 50,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC S",
+        "datarate" : 50,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC Class 50",
+        "datarate" : 54,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 LT narrow raster",
+        "datarate" : 70,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHD 80",
+        "datarate" : 80,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 82,
+        "framerate" : 24
+      },
+      {
+        "name" : "AVC-I 100",
+        "datarate" : 89,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC 10-bit",
+        "datarate" : 89,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC Class 100",
+        "datarate" : 89,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 narrow raster",
+        "datarate" : 101,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHD 115",
+        "datarate" : 115,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 117,
+        "framerate" : 24
+      },
+      {
+        "name" : "J2K 1080",
+        "datarate" : 120,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 147,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 HQ narrow raster",
+        "datarate" : 151,
+        "framerate" : 24
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 160,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHD 175",
+        "datarate" : 175,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHD 175x (10-bit)",
+        "datarate" : 175,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 176,
+        "framerate" : 24
+      },
+      {
+        "name" : "AVC-I 200",
+        "datarate" : 178,
+        "framerate" : 24
+      },
+      {
+        "name" : "AVC-I 4:4:4",
+        "datarate" : 180,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC Class 200",
+        "datarate" : 181,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 220,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444 narrow raster",
+        "datarate" : 226,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 264,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444 XQ narrow raster",
+        "datarate" : 339,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHD 4:4:4 350 X",
+        "datarate" : 350,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 396,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 800,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 1000,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 1500,
+        "framerate" : 24
+      },
+      {
+        "name" : "AVC LongG G6",
+        "datarate" : 6,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC LongG G12",
+        "datarate" : 12,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC LongG G25",
+        "datarate" : 25,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVCHD",
+        "datarate" : 25,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 Proxy narrow raster",
+        "datarate" : 32,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHD 36",
+        "datarate" : 36,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 38,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC Class 50",
+        "datarate" : 43,
+        "framerate" : 25
+      },
+      {
+        "name" : "XF-HEVC Long-GOP",
+        "datarate" : 45,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC LongG G50",
+        "datarate" : 50,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC S",
+        "datarate" : 50,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC-I 50",
+        "datarate" : 54,
+        "framerate" : 25
+      },
+      {
+        "name" : "XF-HEVC Intra",
+        "datarate" : 60,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 LT narrow raster",
+        "datarate" : 73,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHD 85",
+        "datarate" : 85,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 85,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC 10-bit",
+        "datarate" : 93,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 narrow raster",
+        "datarate" : 105,
+        "framerate" : 25
+      },
+      {
+        "name" : "DVCPRO HD",
+        "datarate" : 108,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC-I 100",
+        "datarate" : 111,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC Class 100",
+        "datarate" : 112,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHD 120",
+        "datarate" : 120,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 120,
+        "framerate" : 25
+      },
+      {
+        "name" : "J2K 1080",
+        "datarate" : 125,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 153,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 HQ narrow raster",
+        "datarate" : 157,
+        "framerate" : 25
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 160,
+        "framerate" : 25
+      },
+      {
+        "name" : "SR Lite 50i",
+        "datarate" : 183,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHD 185",
+        "datarate" : 185,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHD 185x (10-bit)",
+        "datarate" : 185,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 185,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC-I 4:4:4",
+        "datarate" : 220,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC-I 200",
+        "datarate" : 226,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC Class 200",
+        "datarate" : 227,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 230,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444 narrow raster",
+        "datarate" : 236,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 275,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444 XQ narrow raster",
+        "datarate" : 354,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHD 4:4:4 365 X",
+        "datarate" : 365,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 413,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 830,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 1040,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 1555,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC LongG G6",
+        "datarate" : 6,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC LongG G12",
+        "datarate" : 12,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC LongG G25",
+        "datarate" : 25,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVCHD",
+        "datarate" : 25,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 Proxy narrow raster",
+        "datarate" : 38,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHD 45",
+        "datarate" : 45,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 45,
+        "framerate" : 30
+      },
+      {
+        "name" : "XF-HEVC Long-GOP",
+        "datarate" : 45,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC LongG G50",
+        "datarate" : 50,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC Class 50",
+        "datarate" : 54,
+        "framerate" : 30
+      },
+      {
+        "name" : "XF-HEVC Intra",
+        "datarate" : 60,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 LT narrow raster",
+        "datarate" : 87,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHD 100",
+        "datarate" : 100,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC 10-bit",
+        "datarate" : 100,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 102,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC-I 100",
+        "datarate" : 111,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC Class 100",
+        "datarate" : 111,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC S",
+        "datarate" : 111,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 narrow raster",
+        "datarate" : 126,
+        "framerate" : 30
+      },
+      {
+        "name" : "DVCPRO HD",
+        "datarate" : 130,
+        "framerate" : 30
+      },
+      {
+        "name" : "DVCPRO HD",
+        "datarate" : 130,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHD 145",
+        "datarate" : 145,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 145,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 147,
+        "framerate" : 30
+      },
+      {
+        "name" : "J2K 1080",
+        "datarate" : 150,
+        "framerate" : 30
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 160,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 183,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 HQ narrow raster",
+        "datarate" : 189,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC-I 4:4:4",
+        "datarate" : 220,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHD 220",
+        "datarate" : 220,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHD 220x (10-bit)",
+        "datarate" : 220,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 220,
+        "framerate" : 30
+      },
+      {
+        "name" : "SR Lite 60i",
+        "datarate" : 220,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC-I 200",
+        "datarate" : 226,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC Class 200",
+        "datarate" : 226,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 275,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444 narrow raster",
+        "datarate" : 283,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 330,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444 XQ narrow raster",
+        "datarate" : 424,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHD 4:4:4 440 X",
+        "datarate" : 440,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 495,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 995,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 1867,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC LongG G6",
+        "datarate" : 12,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC LongG G12",
+        "datarate" : 24,
+        "framerate" : 50
+      },
+      {
+        "name" : "XF-HEVC Long-GOP",
+        "datarate" : 45,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC LongG G25",
+        "datarate" : 50,
+        "framerate" : 50
+      },
+      {
+        "name" : "XF-HEVC Intra",
+        "datarate" : 60,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHD 75",
+        "datarate" : 75,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 76,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC 10-bit",
+        "datarate" : 167,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 170,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC S",
+        "datarate" : 185,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC-I 100",
+        "datarate" : 222,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC Class 100",
+        "datarate" : 223,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHD 240",
+        "datarate" : 240,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 245,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 305,
+        "framerate" : 50
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 310,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHD 365",
+        "datarate" : 365,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHD 365X (10-bit)",
+        "datarate" : 365,
+        "framerate" : 50
+      },
+      {
+        "name" : "SR Lite 50p",
+        "datarate" : 366,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 367,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC-I 4:4:4",
+        "datarate" : 440,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC-I 200",
+        "datarate" : 452,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC Class 200",
+        "datarate" : 454,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 459,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 551,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 826,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 1660,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 2080,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 3110,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC LongG G6",
+        "datarate" : 12,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC LongG G12",
+        "datarate" : 24,
+        "framerate" : 60
+      },
+      {
+        "name" : "XF-HEVC Long-GOP",
+        "datarate" : 45,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC LongG G25",
+        "datarate" : 50,
+        "framerate" : 60
+      },
+      {
+        "name" : "XF-HEVC Intra",
+        "datarate" : 60,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHD 90",
+        "datarate" : 90,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 91,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC S",
+        "datarate" : 100,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 204,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC-I 100",
+        "datarate" : 222,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC 10-bit",
+        "datarate" : 222,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC Class 100",
+        "datarate" : 223,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHD 290",
+        "datarate" : 290,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 293,
+        "framerate" : 60
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 310,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 366,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC-I 4:4:4",
+        "datarate" : 440,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHD 440",
+        "datarate" : 440,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHD 440X (10-bit)",
+        "datarate" : 440,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 440,
+        "framerate" : 60
+      },
+      {
+        "name" : "SR Lite 60p",
+        "datarate" : 440,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC-I 200",
+        "datarate" : 452,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC Class 200",
+        "datarate" : 452,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 550,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 660,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 990,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 1990,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 2489,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 3732,
+        "framerate" : 60
+      }
+    ]
+  },
+  {
+    "resolution" : "sd",
+    "codecs" : [
+      {
+        "name" : "20:1",
+        "datarate" : 6,
+        "framerate" : 0
+      },
+      {
+        "name" : "15:1",
+        "datarate" : 8,
+        "framerate" : 0
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 12,
+        "framerate" : 0
+      },
+      {
+        "name" : "10:1",
+        "datarate" : 13,
+        "framerate" : 0
+      },
+      {
+        "name" : "5:1",
+        "datarate" : 25,
+        "framerate" : 0
+      },
+      {
+        "name" : "DV25 \/ DVCPRO25",
+        "datarate" : 25,
+        "framerate" : 0
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 29,
+        "framerate" : 0
+      },
+      {
+        "name" : "MPEG IMX 30",
+        "datarate" : 30,
+        "framerate" : 0
+      },
+      {
+        "name" : "MPEG IMX 40",
+        "datarate" : 40,
+        "framerate" : 0
+      },
+      {
+        "name" : "3:1",
+        "datarate" : 42,
+        "framerate" : 0
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 42,
+        "framerate" : 0
+      },
+      {
+        "name" : "DV50 \/ DVCPRO50",
+        "datarate" : 50,
+        "framerate" : 0
+      },
+      {
+        "name" : "J2K",
+        "datarate" : 50,
+        "framerate" : 0
+      },
+      {
+        "name" : "MPEG IMX 50",
+        "datarate" : 50,
+        "framerate" : 0
+      },
+      {
+        "name" : "2:1",
+        "datarate" : 63,
+        "framerate" : 0
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 63,
+        "framerate" : 0
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 94,
+        "framerate" : 0
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 141,
+        "framerate" : 0
+      },
+      {
+        "name" : "SD Uncompressed 8 bit",
+        "datarate" : 165,
+        "framerate" : 0
+      },
+      {
+        "name" : "SD Uncompressed 10 bit",
+        "datarate" : 220,
+        "framerate" : 0
+      }
+    ]
+  },
+  {
+    "resolution" : "720p",
+    "codecs" : [
+      {
+        "name" : "AVC Proxy LOW",
+        "datarate" : 1,
+        "framerate" : 0
+      },
+      {
+        "name" : "AVC Proxy HQ",
+        "datarate" : 2,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD proxies only",
+        "datarate" : 2,
+        "framerate" : 0
+      },
+      {
+        "name" : "AVC Proxy SHQ",
+        "datarate" : 4,
+        "framerate" : 0
+      },
+      {
+        "name" : "AVC Proxy G6",
+        "datarate" : 6,
+        "framerate" : 0
+      },
+      {
+        "name" : "HDV",
+        "datarate" : 25,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM EX CBR",
+        "datarate" : 25,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM EX VBR",
+        "datarate" : 25,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD 420 (25)",
+        "datarate" : 25,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD 420 (25) + proxies",
+        "datarate" : 27,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD 420 (35)",
+        "datarate" : 35,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD 420 (35) + proxies",
+        "datarate" : 37,
+        "framerate" : 0
+      },
+      {
+        "name" : "Ikegami GFCAM 50",
+        "datarate" : 50,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD 422",
+        "datarate" : 50,
+        "framerate" : 0
+      },
+      {
+        "name" : "XDCAM HD 422 + proxies",
+        "datarate" : 52,
+        "framerate" : 0
+      },
+      {
+        "name" : "Ikegami GFCAM 100",
+        "datarate" : 100,
+        "framerate" : 0
+      },
+      {
+        "name" : "AVC-I 100",
+        "datarate" : 44,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHD 45",
+        "datarate" : 45,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHD 60",
+        "datarate" : 60,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHD 90",
+        "datarate" : 90,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHD 90X",
+        "datarate" : 90,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 355,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 472,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 Proxy narrow raster",
+        "datarate" : 32,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 38,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHD 45",
+        "datarate" : 45,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC-I 100",
+        "datarate" : 56,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHD 60",
+        "datarate" : 60,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 LT narrow raster",
+        "datarate" : 73,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 85,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHD 90",
+        "datarate" : 90,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHD 90X",
+        "datarate" : 90,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 narrow raster",
+        "datarate" : 105,
+        "framerate" : 25
+      },
+      {
+        "name" : "DVCPRO HD",
+        "datarate" : 108,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 120,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 HQ narrow raster",
+        "datarate" : 157,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 185,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444 narrow raster",
+        "datarate" : 236,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 275,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444 XQ narrow raster",
+        "datarate" : 354,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 370,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 413,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 461,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 Proxy narrow raster",
+        "datarate" : 38,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 45,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHD 50",
+        "datarate" : 50,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC-I 100",
+        "datarate" : 56,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHD 75",
+        "datarate" : 75,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 LT narrow raster",
+        "datarate" : 87,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 102,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHD 110",
+        "datarate" : 110,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHD 110X",
+        "datarate" : 110,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 narrow raster",
+        "datarate" : 126,
+        "framerate" : 30
+      },
+      {
+        "name" : "DVCPRO HD",
+        "datarate" : 130,
+        "framerate" : 30
+      },
+      {
+        "name" : "DVCPRO HD",
+        "datarate" : 130,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 147,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 HQ narrow raster",
+        "datarate" : 189,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 220,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444 narrow raster",
+        "datarate" : 283,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 330,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444 XQ narrow raster",
+        "datarate" : 424,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 443,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 495,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 553,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC LongG G6",
+        "datarate" : 6,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC LongG G12",
+        "datarate" : 12,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC LongG G25",
+        "datarate" : 25,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVCHD",
+        "datarate" : 25,
+        "framerate" : 50
+      },
+      {
+        "name" : "10-bit XAVC 720 Long-GOP",
+        "datarate" : 42,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC LongG G50",
+        "datarate" : 50,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC-I 50",
+        "datarate" : 54,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 76,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHD 85",
+        "datarate" : 85,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC-I 100",
+        "datarate" : 111,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC Class 100",
+        "datarate" : 112,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHD 115",
+        "datarate" : 115,
+        "framerate" : 50
+      },
+      {
+        "name" : "J2K 720p",
+        "datarate" : 125,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 170,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHD 175",
+        "datarate" : 175,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHD 175X",
+        "datarate" : 175,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC-I 200",
+        "datarate" : 226,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 245,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 367,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 551,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 738,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 826,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 922,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC LongG G6",
+        "datarate" : 6,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC LongG G12",
+        "datarate" : 12,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC LongG G25",
+        "datarate" : 25,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVCHD",
+        "datarate" : 25,
+        "framerate" : 60
+      },
+      {
+        "name" : "10-bit XAVC 720 Long-GOP",
+        "datarate" : 50,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC LongG G50",
+        "datarate" : 50,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC-I 50",
+        "datarate" : 54,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 91,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHD 100",
+        "datarate" : 100,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC-I 100",
+        "datarate" : 111,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC Class 100",
+        "datarate" : 111,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHD 145",
+        "datarate" : 145,
+        "framerate" : 60
+      },
+      {
+        "name" : "J2K 720p",
+        "datarate" : 150,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 204,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHD 220",
+        "datarate" : 220,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHD 220x",
+        "datarate" : 220,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC-I 200",
+        "datarate" : 226,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 293,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 440,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 660,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 885,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 990,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 1105,
+        "framerate" : 60
+      }
+    ]
+  },
+  {
+    "resolution" : "2KFullAperture",
+    "codecs" : [
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 3,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 11.125,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 14,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 16.8125,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 16.8125,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 33.5625,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 44.5,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 55,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 56,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 67.25,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 67.25,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 126,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 134.25,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 178,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 181,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 227,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 269,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 269,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 272,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 340,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 407,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 537,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 611,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 1224,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 1530,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 1836,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 2295,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 2448,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 2754,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 3672,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 3.2999999523162842,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 11.5625,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 15,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 17.5,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 17.5,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 35,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 46.25,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 57,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 58,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 70,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 70,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 131,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 140,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 185,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 189,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 236,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 280,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 280,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 283,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 354,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 425,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 560,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 637,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 1275,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 1913,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 2390,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 2550,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 2594,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 2869,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 3825,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 3.9000000953674316,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 13.875,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 18,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 21,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 21,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 41.9375,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 55.5,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 69,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 70,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 84,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 84,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 167.75,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 222,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 226,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 257,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 284,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 336,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 336,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 340,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 425,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 509,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 671,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 764,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 1530,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 1912,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 2295,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 2868,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 3060,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 3442,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 4589,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 6.3000001907348633,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 22.1875,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 28,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 33.625,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 33.625,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 67.125,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 88.75,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 110,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 112,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 134.5,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 134.5,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 251,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 268.5,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 355,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 362,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 453,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 538,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 538,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 543,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 679,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 815,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 1074,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 1222,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 2448,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 3060,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 3672,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 4590,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 4895,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 5507,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 7343,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 6.5999999046325684,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 23.125,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 29,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 35,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 35,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 69.9375,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 92.5,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 115,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 117,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 140,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 140,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 262,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 279.75,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 370,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 377,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 472,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 560,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 560,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 567,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 708,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 850,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 1119,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 1275,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 2550,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 3187,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 3825,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 4781,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 5099,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 5737,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 7649,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 7.9000000953674316,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 27.75,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 35,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 42,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 42,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 83.9375,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 111,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 138,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 140,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 168,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 168,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 314,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 335.75,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 444,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 452,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 567,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 672,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 672,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 679,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 849,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 1019,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 1343,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 1528,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 3060,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 3825,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 4589,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 5737,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 6119,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 6884,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 9178,
+        "framerate" : 60
+      }
+    ]
+  },
+  {
+    "resolution" : "2K",
+    "codecs" : [
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 2.4000000953674316,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 7.6875,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 9,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 11.625,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 11.625,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 23.3125,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 30.75,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 39,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 41,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 46.5,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 46.5,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC 2k",
+        "datarate" : 89,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC Class 100",
+        "datarate" : 89,
+        "framerate" : 24
+      },
+      {
+        "name" : "AVC-I 2K 4:2:2",
+        "datarate" : 90,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 93,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 93.25,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 123,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 134,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 157,
+        "framerate" : 24
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 160,
+        "framerate" : 24
+      },
+      {
+        "name" : "AVC-I 2K 4:4:4",
+        "datarate" : 180,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 186,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 186,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 201,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 252,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 302,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 373,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 453,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 850,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 1062,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 1275,
+        "framerate" : 24
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 1593,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 1593,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 1699,
+        "framerate" : 24
+      },
+      {
+        "name" : "Canon RAW (12-bit)",
+        "datarate" : 1912,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 1912,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 2549,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 2.5,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 8.0625,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 10,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 12.125,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 12.125,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 24.25,
+        "framerate" : 25
+      },
+      {
+        "name" : "XF-AVC (H.264 proxy)",
+        "datarate" : 25,
+        "framerate" : 25
+      },
+      {
+        "name" : "XF-AVC (H.264 proxy)",
+        "datarate" : 25,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 32.25,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 40,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 43,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 48.5,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 48.5,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC 2k",
+        "datarate" : 93,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC Class 100",
+        "datarate" : 93,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 97,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 97,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC-I 2K 4:2:2",
+        "datarate" : 110,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 129,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 140,
+        "framerate" : 25
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 160,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 164,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 194,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 194,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 210,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC-I 2K 4:4:4",
+        "datarate" : 220,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 262,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 315,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 388,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 472,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 885,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 1106,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 1328,
+        "framerate" : 25
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 1659,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 1659,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 1770,
+        "framerate" : 25
+      },
+      {
+        "name" : "Canon RAW (12-bit)",
+        "datarate" : 1991,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 1991,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 2655,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 3,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 9.625,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 12,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 14.5625,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 14.5625,
+        "framerate" : 30
+      },
+      {
+        "name" : "XF-AVC (H.264 proxy)",
+        "datarate" : 25,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 29.125,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 38.5,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 48,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 52,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 58.25,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 58.25,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC-I 2K 4:2:2",
+        "datarate" : 110,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC 2k",
+        "datarate" : 111,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC Class 100",
+        "datarate" : 111,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 116,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 116.5,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 154,
+        "framerate" : 30
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 160,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 168,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 196,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC-I 2K 4:4:4",
+        "datarate" : 220,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 233,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 233,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 251,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 315,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 377,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 466,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 566,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 1062,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 1328,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 1593,
+        "framerate" : 30
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 1991,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 1991,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 2124,
+        "framerate" : 30
+      },
+      {
+        "name" : "Canon RAW (12-bit)",
+        "datarate" : 2389,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 2389,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 3186,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 4.6999998092651367,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 15.4375,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 19,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 23.3125,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 23.3125,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 46.625,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 61.75,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 69,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 77,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 93.25,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 93.25,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 155,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 186.5,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 224,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 247,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 314,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 373,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 373,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 403,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 503,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 603,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 746,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 905,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 1699,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 2124,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 2549,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 3186,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 3398,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 3823,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 5097,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 4.9000000953674316,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 16.0625,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 20,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 24.25,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 24.25,
+        "framerate" : 50
+      },
+      {
+        "name" : "XF-AVC (H.264 proxy)",
+        "datarate" : 35,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 48.5625,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 52,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 64.25,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 80,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 97,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 97,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC 2k",
+        "datarate" : 185,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC Class 100",
+        "datarate" : 185,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 194,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 194.25,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC-I 2K 4:2:2",
+        "datarate" : 220,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 257,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 280,
+        "framerate" : 50
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 310,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 327,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 388,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 388,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 419,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC-I 2K 4:4:4",
+        "datarate" : 440,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 524,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 629,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 777,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 944,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 1770,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 2212,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 2655,
+        "framerate" : 50
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 3318,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 3318,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 3539,
+        "framerate" : 50
+      },
+      {
+        "name" : "Canon RAW (12-bit)",
+        "datarate" : 3982,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 3982,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 5309,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 6,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 19.3125,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 24,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 29.125,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 29.125,
+        "framerate" : 60
+      },
+      {
+        "name" : "XF-AVC (H.264 proxy)",
+        "datarate" : 35,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 58.25,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 77.25,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 86,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 96,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 116.5,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 116.5,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 194,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC-I 2K 4:2:2",
+        "datarate" : 220,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC 2k",
+        "datarate" : 222,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC Class 100",
+        "datarate" : 222,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 233,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 280,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 309,
+        "framerate" : 60
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 310,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 392,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC-I 2K 4:4:4",
+        "datarate" : 440,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 466,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 466,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 503,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 629,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 754,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 932,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 1131,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 2124,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 2655,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 3186,
+        "framerate" : 60
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 3982,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 3982,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 4246,
+        "framerate" : 60
+      },
+      {
+        "name" : "Canon RAW (12-bit)",
+        "datarate" : 4778,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 4778,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 63701,
+        "framerate" : 60
+      }
+    ]
+  },
+  {
+    "resolution" : "ARRIRAW",
+    "codecs" : [
+      {
+        "name" : "ARRIRAW @ 2880 x 1620 (16:9)",
+        "datarate" : 56,
+        "framerate" : 1
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 2160 (4:3)",
+        "datarate" : 74.639999389648438,
+        "framerate" : 1
+      },
+      {
+        "name" : "ARRIRAW @ 3414 x 2198 (Open Gate)",
+        "datarate" : 90.400001525878906,
+        "framerate" : 1
+      },
+      {
+        "name" : "ARRIRAW @ 6560 x 3100 (Open Gate)",
+        "datarate" : 245,
+        "framerate" : 1
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 1620 (16:9)",
+        "datarate" : 672,
+        "framerate" : 12
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 2160 (4:3)",
+        "datarate" : 896,
+        "framerate" : 12
+      },
+      {
+        "name" : "ARRIRAW @ 3414 x 2198 (Open Gate)",
+        "datarate" : 1085,
+        "framerate" : 12
+      },
+      {
+        "name" : "ARRIRAW @ 6560 x 3100 (Open Gate)",
+        "datarate" : 2929,
+        "framerate" : 12
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 1620 (16:9)",
+        "datarate" : 1344,
+        "framerate" : 24
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 2160 (4:3)",
+        "datarate" : 1792,
+        "framerate" : 24
+      },
+      {
+        "name" : "ARRIRAW @ 3414 x 2198 (Open Gate)",
+        "datarate" : 2170,
+        "framerate" : 24
+      },
+      {
+        "name" : "ARRIRAW @ 6560 x 3100 (Open Gate)",
+        "datarate" : 5857,
+        "framerate" : 24
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 1620 (16:9)",
+        "datarate" : 1400,
+        "framerate" : 25
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 2160 (4:3)",
+        "datarate" : 1866,
+        "framerate" : 25
+      },
+      {
+        "name" : "ARRIRAW @ 3414 x 2198 (Open Gate)",
+        "datarate" : 2260,
+        "framerate" : 25
+      },
+      {
+        "name" : "ARRIRAW @ 6560 x 3100 (Open Gate)",
+        "datarate" : 6101,
+        "framerate" : 25
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 1620 (16:9)",
+        "datarate" : 1680,
+        "framerate" : 30
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 2160 (4:3)",
+        "datarate" : 2239,
+        "framerate" : 30
+      },
+      {
+        "name" : "ARRIRAW @ 3414 x 2198 (Open Gate)",
+        "datarate" : 2712,
+        "framerate" : 30
+      },
+      {
+        "name" : "ARRIRAW @ 6560 x 3100 (Open Gate)",
+        "datarate" : 7321,
+        "framerate" : 30
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 1620 (16:9)",
+        "datarate" : 2688,
+        "framerate" : 48
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 2160 (4:3)",
+        "datarate" : 3583,
+        "framerate" : 48
+      },
+      {
+        "name" : "ARRIRAW @ 3414 x 2198 (Open Gate)",
+        "datarate" : 4340,
+        "framerate" : 48
+      },
+      {
+        "name" : "ARRIRAW @ 6560 x 3100 (Open Gate)",
+        "datarate" : 11714,
+        "framerate" : 48
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 1620 (16:9)",
+        "datarate" : 3360,
+        "framerate" : 60
+      },
+      {
+        "name" : "ARRIRAW @ 2880 x 2160 (4:3)",
+        "datarate" : 4478,
+        "framerate" : 60
+      },
+      {
+        "name" : "ARRIRAW @ 3414 x 2198 (Open Gate)",
+        "datarate" : 5424,
+        "framerate" : 60
+      },
+      {
+        "name" : "ARRIRAW @ 6560 x 3100 (Open Gate)",
+        "datarate" : 14642,
+        "framerate" : 60
+      }
+    ]
+  },
+  {
+    "resolution" : "UltraHD_3840x2160",
+    "codecs" : [
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 9,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 28.875,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 36,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 43.6875,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 43.6875,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 87.4375,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 115.5,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 144,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 145,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC S",
+        "datarate" : 150,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 174.75,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 174.75,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC 4k\/QFHD",
+        "datarate" : 240,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC Class 300",
+        "datarate" : 240,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 328,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 349.75,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC Class 480",
+        "datarate" : 384,
+        "framerate" : 24
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 410,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 462,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 471,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 590,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 699,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 699,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 707,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 884,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 1061,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 1399,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 1591,
+        "framerate" : 24
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 1991,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 3186,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 3982,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 4778,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 5972,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 6370,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 7167,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 9556,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 9,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 30.125,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 38,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 45.5,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 45.5,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 91.0625,
+        "framerate" : 25
+      },
+      {
+        "name" : "XF-HEVC Long-GOP",
+        "datarate" : 110,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 120.5,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 150,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC S",
+        "datarate" : 150,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 151,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 182,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 182,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC 4k\/QFHD",
+        "datarate" : 250,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC Class 300",
+        "datarate" : 250,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 342,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 364.25,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC Class 480",
+        "datarate" : 400,
+        "framerate" : 25
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 410,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 482,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 492,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 614,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 728,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 728,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 737,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 921,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 1106,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 1457,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 1659,
+        "framerate" : 25
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 2074,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 3318,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 4148,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 4977,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 6221,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 6366,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 7465,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 9954,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 11,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 36.125,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 45,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 54.625,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 54.625,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 109.3125,
+        "framerate" : 30
+      },
+      {
+        "name" : "XF-HEVC Long-GOP",
+        "datarate" : 110,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 144.5,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC S",
+        "datarate" : 150,
+        "framerate" : 30
+      },
+      {
+        "name" : "XF-HEVC Intra",
+        "datarate" : 160,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 180,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 182,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 218.5,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 218.5,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC 4k\/QFHD",
+        "datarate" : 300,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC Class 300",
+        "datarate" : 300,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 410,
+        "framerate" : 30
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 410,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 437.25,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC Class 480",
+        "datarate" : 480,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 578,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 589,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 737,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 874,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 874,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 884,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 1105,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 1326,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 1749,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 1989,
+        "framerate" : 30
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 2489,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 3982,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 4977,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 5972,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 7465,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 7963,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 8958,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 11944,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 17,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 57.8125,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 72,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 87.375,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 87.375,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 174.875,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 231.25,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 242,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 288,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 349.5,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 349.5,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 547,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 699.5,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 925,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 942,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 1180,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 1398,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 1398,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 1414,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 1768,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 2122,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 2798,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 3182,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 6371,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 7963,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 9556,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 11944,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 12741,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 14333,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 19111,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 18,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 60.25,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 75,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 91.0625,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 91.0625,
+        "framerate" : 50
+      },
+      {
+        "name" : "XF-HEVC Long-GOP",
+        "datarate" : 110,
+        "framerate" : 50
+      },
+      {
+        "name" : "XF-HEVC Intra",
+        "datarate" : 160,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 182.1875,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 241,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 300,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC S",
+        "datarate" : 300,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 303,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 364.25,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 364.25,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC 4k\/QFHD",
+        "datarate" : 500,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC Class 300",
+        "datarate" : 500,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 684,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 728.75,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC Class 480",
+        "datarate" : 800,
+        "framerate" : 50
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 810,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 964,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 983,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 1228,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 1457,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 1457,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 1475,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 1842,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 2212,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 2915,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 3318,
+        "framerate" : 50
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 4148,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 6636,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 8295,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 9954,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 12442,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 13272,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 14930,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 19907,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 22,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 72.25,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 90,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 109.25,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 109.25,
+        "framerate" : 60
+      },
+      {
+        "name" : "XF-HEVC Long-GOP",
+        "datarate" : 110,
+        "framerate" : 60
+      },
+      {
+        "name" : "XF-HEVC Intra",
+        "datarate" : 160,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 218.625,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 289,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC S",
+        "datarate" : 300,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 303,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 360,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 437,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 437,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC 4k\/QFHD",
+        "datarate" : 600,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC Class 300",
+        "datarate" : 600,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 684,
+        "framerate" : 60
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 810,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 874.5,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC Class 480",
+        "datarate" : 960,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 1156,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 1178,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 1473,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 1748,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 1748,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 1768,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 2210,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 2652,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 3498,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 3977,
+        "framerate" : 60
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 4977,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 7963,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 9954,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 11944,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 14930,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 15926,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 17916,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 23888,
+        "framerate" : 60
+      }
+    ]
+  },
+  {
+    "resolution" : "4K_4096x2160",
+    "codecs" : [
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 9,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 30.8125,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 39,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 46.625,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 46.625,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 93.25,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 123.25,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 153,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 155,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 186.5,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 186.5,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC 4k\/QFHD",
+        "datarate" : 240,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC Class 300",
+        "datarate" : 240,
+        "framerate" : 24
+      },
+      {
+        "name" : "AVC-I 4K 4:2:2",
+        "datarate" : 320,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 350,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 373,
+        "framerate" : 24
+      },
+      {
+        "name" : "XAVC Class 480",
+        "datarate" : 384,
+        "framerate" : 24
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 410,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 493,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 503,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 629,
+        "framerate" : 24
+      },
+      {
+        "name" : "AVC-I 4K 4:4:4",
+        "datarate" : 640,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 746,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 746,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 754,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 943,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 1131,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 1492,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 1697,
+        "framerate" : 24
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 2124,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 3398,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 4247,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 5097,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 6371,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 6795,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 7645,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 10193,
+        "framerate" : 24
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 10,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 32.125,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 40,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 48.5625,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 48.5625,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 97.125,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 128.5,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 160,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 162,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 194.25,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 194.25,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC 4k\/QFHD",
+        "datarate" : 250,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC Class 300",
+        "datarate" : 250,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 365,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 388.5,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC-I 4K 4:2:2",
+        "datarate" : 400,
+        "framerate" : 25
+      },
+      {
+        "name" : "XAVC Class 480",
+        "datarate" : 400,
+        "framerate" : 25
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 410,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 514,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 524,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 655,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 777,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 777,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 786,
+        "framerate" : 25
+      },
+      {
+        "name" : "AVC-I 4K 4:4:4",
+        "datarate" : 800,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 983,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 1180,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 1554,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 1769,
+        "framerate" : 25
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 2212,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 3539,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 4424,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 5309,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 6636,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 7078,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 7963,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 10617,
+        "framerate" : 25
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 12,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 38.5,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 48,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 58.3125,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 58.3125,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 116.5625,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 154,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 192,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 194,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 233.25,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 233.25,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC 4k\/QFHD",
+        "datarate" : 300,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC Class 300",
+        "datarate" : 300,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC-I 4K 4:2:2",
+        "datarate" : 400,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC-I 4K 4:2:2",
+        "datarate" : 400,
+        "framerate" : 30
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 410,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 437,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 466.25,
+        "framerate" : 30
+      },
+      {
+        "name" : "XAVC Class 480",
+        "datarate" : 480,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 616,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 629,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 786,
+        "framerate" : 30
+      },
+      {
+        "name" : "AVC-I 4K 4:4:4",
+        "datarate" : 800,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 933,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 933,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 943,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 1179,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 1414,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 1865,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 2121,
+        "framerate" : 30
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 2655,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 4247,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 5309,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 6371,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 7963,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 8494,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 9556,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 12741,
+        "framerate" : 30
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 19,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 61.625,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 77,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 93.3125,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 93.3125,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 186.5,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 246.5,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 307,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 310,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 373.25,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 373.25,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 700,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 746,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 986,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 1006,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 1258,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 1493,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 1493,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 1509,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 1886,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 2263,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 2984,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 3394,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 6795,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 8494,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 10193,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 12741,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 13590,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 15289,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 20385,
+        "framerate" : 48
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 20,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 64.1875,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 80,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 97.1875,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 97.1875,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 194.25,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 256.75,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 319,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 323,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 388.75,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 388.75,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC 4k\/QFHD",
+        "datarate" : 500,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC Class 300",
+        "datarate" : 500,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 730,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 777,
+        "framerate" : 50
+      },
+      {
+        "name" : "AVC-I 4K 4:2:2",
+        "datarate" : 800,
+        "framerate" : 50
+      },
+      {
+        "name" : "XAVC Class 480",
+        "datarate" : 800,
+        "framerate" : 50
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 810,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 1027,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 1049,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 1310,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 1555,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 1555,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 1573,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 1965,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 2359,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 3108,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 3539,
+        "framerate" : 50
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 4424,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 7078,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 8848,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 10617,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 13272,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 14156,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 15926,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 21234,
+        "framerate" : 50
+      },
+      {
+        "name" : "DNxHR 1\/16 LB (8-bit)",
+        "datarate" : 24,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 SQ (8-bit)",
+        "datarate" : 77,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 LB (8-bit)",
+        "datarate" : 96,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 HQ (8-bit)",
+        "datarate" : 116.625,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 HQX (12-bit)",
+        "datarate" : 116.625,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/16 444 (12-bit)",
+        "datarate" : 233.125,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 SQ (8-bit)",
+        "datarate" : 308,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 383,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 388,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 HQ (8-bit)",
+        "datarate" : 466.5,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 HQX (12-bit)",
+        "datarate" : 466.5,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC 4k\/QFHD",
+        "datarate" : 600,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC Class 300",
+        "datarate" : 600,
+        "framerate" : 60
+      },
+      {
+        "name" : "AVC-I 4K 4:2:2",
+        "datarate" : 800,
+        "framerate" : 60
+      },
+      {
+        "name" : "XF-AVC (H.264)",
+        "datarate" : 810,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 875,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 1\/4 444 (12-bit)",
+        "datarate" : 932.5,
+        "framerate" : 60
+      },
+      {
+        "name" : "XAVC Class 480",
+        "datarate" : 960,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 1232,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 1257,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 1572,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 1866,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 1866,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 1886,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 2357,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 2828,
+        "framerate" : 60
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 3730,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 4242,
+        "framerate" : 60
+      },
+      {
+        "name" : "Canon RAW (10-bit)",
+        "datarate" : 5309,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 8494,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 10617,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 12741,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 15926,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 16987,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 19111,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 25481,
+        "framerate" : 60
+      }
+    ]
+  },
+  {
+    "resolution" : "5K_5120x2160",
+    "codecs" : [
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 194,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 437,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 629,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 786,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 943,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 1179,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 1414,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 2121,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 4247,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 5309,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 6370,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 7963,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 8494,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 9556,
+        "framerate" : 24
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 12741,
+        "framerate" : 24
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 202,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 456,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 655,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 819,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 983,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 1228,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 1475,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 2212,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 4424,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 5530,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 6636,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 8295,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 8848,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 9954,
+        "framerate" : 25
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 13272,
+        "framerate" : 25
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 243,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 546,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 786,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 982,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 1178,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 1473,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 1768,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 2652,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 5309,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 6636,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 7963,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 9954,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 10617,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 11944,
+        "framerate" : 30
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 15926,
+        "framerate" : 30
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 388,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 874,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 1257,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 1572,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 1886,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 2357,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 2828,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 4242,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 8494,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 10617,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 12741,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 15926,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 16987,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 19111,
+        "framerate" : 48
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 25481,
+        "framerate" : 48
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 405,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 912,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 1311,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 1637,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 1966,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 2455,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 2949,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 4424,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 8848,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 11060,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 13272,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 16589,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 17695,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 19907,
+        "framerate" : 50
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 26543,
+        "framerate" : 50
+      },
+      {
+        "name" : "ProRes 422 Proxy",
+        "datarate" : 485,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 LT",
+        "datarate" : 1093,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422",
+        "datarate" : 1571,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes RAW",
+        "datarate" : 1964,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 422 HQ",
+        "datarate" : 2357,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes RAW HQ",
+        "datarate" : 2946,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444",
+        "datarate" : 3535,
+        "framerate" : 60
+      },
+      {
+        "name" : "ProRes 4444 XQ",
+        "datarate" : 5303,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 10617,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 13272,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 15926,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 19907,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 21234,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 23888,
+        "framerate" : 60
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 31851,
+        "framerate" : 60
+      }
+    ]
+  },
+  {
+    "resolution" : "BlackmagicCinemaDNGRaw",
+    "codecs" : [
+      {
+        "name" : "Blackmagic Micro Cinema Camera RAW (1920 x 1080)",
+        "datarate" : 417,
+        "framerate" : 24
+      },
+      {
+        "name" : "URSA RAW 4:1",
+        "datarate" : 860,
+        "framerate" : 24
+      },
+      {
+        "name" : "URSA RAW 3:1 (4608 x 2592)",
+        "datarate" : 1146,
+        "framerate" : 24
+      },
+      {
+        "name" : "Blackmagic Cinema Camera RAW (4000 x 2160)",
+        "datarate" : 1700,
+        "framerate" : 24
+      },
+      {
+        "name" : "Blackmagic Micro Cinema Camera RAW (1920 x 1080)",
+        "datarate" : 434,
+        "framerate" : 25
+      },
+      {
+        "name" : "URSA RAW 4:1 (4608 x 2592)",
+        "datarate" : 896,
+        "framerate" : 25
+      },
+      {
+        "name" : "URSA RAW 3:1 (4608 x 2592)",
+        "datarate" : 1195,
+        "framerate" : 25
+      },
+      {
+        "name" : "Blackmagic Cinema Camera RAW (4000 x 2160)",
+        "datarate" : 1771,
+        "framerate" : 25
+      },
+      {
+        "name" : "Blackmagic Micro Cinema Camera RAW (1920 x 1080)",
+        "datarate" : 521,
+        "framerate" : 30
+      },
+      {
+        "name" : "URSA RAW 4:1 (4608 x 2592)",
+        "datarate" : 1075,
+        "framerate" : 30
+      },
+      {
+        "name" : "URSA RAW 3:1 (4608 x 2592)",
+        "datarate" : 1433,
+        "framerate" : 30
+      },
+      {
+        "name" : "Blackmagic Cinema Camera RAW (4000 x 2160)",
+        "datarate" : 2125,
+        "framerate" : 30
+      },
+      {
+        "name" : "Blackmagic Micro Cinema Camera RAW (1920 x 1080)",
+        "datarate" : 867,
+        "framerate" : 50
+      },
+      {
+        "name" : "URSA RAW 4:1 (4608 x 2592)",
+        "datarate" : 2150,
+        "framerate" : 50
+      },
+      {
+        "name" : "URSA RAW 3:1 (4608 x 2592)",
+        "datarate" : 2389,
+        "framerate" : 50
+      },
+      {
+        "name" : "Blackmagic Micro Cinema Camera RAW (1920 x 1080)",
+        "datarate" : 1041,
+        "framerate" : 60
+      },
+      {
+        "name" : "URSA RAW 4:1 (4608 x 2592)",
+        "datarate" : 2150,
+        "framerate" : 60
+      },
+      {
+        "name" : "URSA RAW 3:1 (4608 x 2592)",
+        "datarate" : 2867,
+        "framerate" : 60
+      }
+    ]
+  },
+  {
+    "resolution" : "CanonRAW",
+    "codecs" : [
+      {
+        "name" : "Canon RAW (10-bit) @ 2048 x 1080",
+        "datarate" : 1593,
+        "framerate" : 24
+      },
+      {
+        "name" : "Canon RAW (12-bit) @ 2048 x 1080",
+        "datarate" : 1912,
+        "framerate" : 24
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 3840 x 2160",
+        "datarate" : 1991,
+        "framerate" : 24
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 4096 x 2160",
+        "datarate" : 2124,
+        "framerate" : 24
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 2048 x 1080",
+        "datarate" : 1659,
+        "framerate" : 25
+      },
+      {
+        "name" : "Canon RAW (12-bit) @ 2048 x 1080",
+        "datarate" : 1991,
+        "framerate" : 25
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 3840 x 2160",
+        "datarate" : 2074,
+        "framerate" : 25
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 4096 x 2160",
+        "datarate" : 2212,
+        "framerate" : 25
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 2048 x 1080",
+        "datarate" : 1991,
+        "framerate" : 30
+      },
+      {
+        "name" : "Canon RAW (12-bit) @ 2048 x 1080",
+        "datarate" : 2389,
+        "framerate" : 30
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 3840 x 2160",
+        "datarate" : 2489,
+        "framerate" : 30
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 4096 x 2160",
+        "datarate" : 2655,
+        "framerate" : 30
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 2048 x 1080",
+        "datarate" : 3318,
+        "framerate" : 50
+      },
+      {
+        "name" : "Canon RAW (12-bit) @ 2048 x 1080",
+        "datarate" : 3982,
+        "framerate" : 50
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 3840 x 2160",
+        "datarate" : 4148,
+        "framerate" : 50
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 4096 x 2160",
+        "datarate" : 4424,
+        "framerate" : 50
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 2048 x 1080",
+        "datarate" : 3982,
+        "framerate" : 60
+      },
+      {
+        "name" : "Canon RAW (12-bit) @ 2048 x 1080",
+        "datarate" : 4778,
+        "framerate" : 60
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 3840 x 2160",
+        "datarate" : 4977,
+        "framerate" : 60
+      },
+      {
+        "name" : "Canon RAW (10-bit) @ 4096 x 2160",
+        "datarate" : 5309,
+        "framerate" : 60
+      }
+    ]
+  },
+  {
+    "resolution" : "custom",
+    "codecs" : [
+      {
+        "name" : "DNxHR LB (8-bit)",
+        "datarate" : 0.029999999329447746,
+        "framerate" : 0
+      },
+      {
+        "name" : "DNxHR SQ (8-bit)",
+        "datarate" : 0.096699997782707214,
+        "framerate" : 0
+      },
+      {
+        "name" : "DNxHR HQ (8-bit)",
+        "datarate" : 0.14640000462532043,
+        "framerate" : 0
+      },
+      {
+        "name" : "DNxHR HQX (12-bit)",
+        "datarate" : 0.14640000462532043,
+        "framerate" : 0
+      },
+      {
+        "name" : "DNxHR 444 (12-bit)",
+        "datarate" : 0.29280000925064087,
+        "framerate" : 0
+      },
+      {
+        "name" : "Uncompressed 4:2:2 8-bit",
+        "datarate" : 0.66670000553131104,
+        "framerate" : 0
+      },
+      {
+        "name" : "Uncompressed 4:2:2 10-bit",
+        "datarate" : 0.83329999446868896,
+        "framerate" : 0
+      },
+      {
+        "name" : "Uncompressed 4:2:2 12-bit",
+        "datarate" : 1,
+        "framerate" : 0
+      },
+      {
+        "name" : "Uncompressed 4:4:4 8-bit",
+        "datarate" : 1,
+        "framerate" : 0
+      },
+      {
+        "name" : "Uncompressed 4:4:4 10-bit",
+        "datarate" : 1.25,
+        "framerate" : 0
+      },
+      {
+        "name" : "Uncompressed 4:2:2 16-bit",
+        "datarate" : 1.333299994468689,
+        "framerate" : 0
+      },
+      {
+        "name" : "Uncompressed 4:4:4 12-bit",
+        "datarate" : 1.5,
+        "framerate" : 0
+      },
+      {
+        "name" : "Uncompressed 4:4:4 16-bit",
+        "datarate" : 2,
+        "framerate" : 0
+      }
+    ]
+  },
+  {
+    "resolution" : "BRAW",
+    "codecs" : [
+      {
+        "name" : "1920 x 1080 @ 12:1",
+        "datarate" : 51,
+        "framerate" : 24
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 12:1",
+        "datarate" : 55,
+        "framerate" : 24
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 12:1",
+        "datarate" : 58,
+        "framerate" : 24
+      },
+      {
+        "name" : "1920 x 1080 @ 8:1",
+        "datarate" : 76,
+        "framerate" : 24
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 8:1",
+        "datarate" : 81,
+        "framerate" : 24
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 8:1",
+        "datarate" : 86,
+        "framerate" : 24
+      },
+      {
+        "name" : "1920 x 1080 @ Q5",
+        "datarate" : 87,
+        "framerate" : 24
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ Q5",
+        "datarate" : 93,
+        "framerate" : 24
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ Q5",
+        "datarate" : 99,
+        "framerate" : 24
+      },
+      {
+        "name" : "1920 x 1080 @ 5:1",
+        "datarate" : 122,
+        "framerate" : 24
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 5:1",
+        "datarate" : 130,
+        "framerate" : 24
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 5:1",
+        "datarate" : 139,
+        "framerate" : 24
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 12:1",
+        "datarate" : 193,
+        "framerate" : 24
+      },
+      {
+        "name" : "1920 x 1080 @ 3:1",
+        "datarate" : 203,
+        "framerate" : 24
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 12:1",
+        "datarate" : 204,
+        "framerate" : 24
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 3:1",
+        "datarate" : 217,
+        "framerate" : 24
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 12:1",
+        "datarate" : 217,
+        "framerate" : 24
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 3:1",
+        "datarate" : 231,
+        "framerate" : 24
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 12:1",
+        "datarate" : 245,
+        "framerate" : 24
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 12:1",
+        "datarate" : 261,
+        "framerate" : 24
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 8:1",
+        "datarate" : 287,
+        "framerate" : 24
+      },
+      {
+        "name" : "4608 x 2592 @ 12:1",
+        "datarate" : 294,
+        "framerate" : 24
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 8:1",
+        "datarate" : 302,
+        "framerate" : 24
+      },
+      {
+        "name" : "1920 x 1080 @ Q0",
+        "datarate" : 304,
+        "framerate" : 24
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 8:1",
+        "datarate" : 322,
+        "framerate" : 24
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ Q0",
+        "datarate" : 325,
+        "framerate" : 24
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ Q5",
+        "datarate" : 329,
+        "framerate" : 24
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ Q0",
+        "datarate" : 346,
+        "framerate" : 24
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ Q0",
+        "datarate" : 347,
+        "framerate" : 24
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ Q5",
+        "datarate" : 361,
+        "framerate" : 24
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 8:1",
+        "datarate" : 363,
+        "framerate" : 24
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ Q5",
+        "datarate" : 370,
+        "framerate" : 24
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 8:1",
+        "datarate" : 387,
+        "framerate" : 24
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ Q5",
+        "datarate" : 416,
+        "framerate" : 24
+      },
+      {
+        "name" : "4608 x 2592 @ 8:1",
+        "datarate" : 435,
+        "framerate" : 24
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ Q5",
+        "datarate" : 444,
+        "framerate" : 24
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 5:1",
+        "datarate" : 464,
+        "framerate" : 24
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 5:1",
+        "datarate" : 489,
+        "framerate" : 24
+      },
+      {
+        "name" : "4608 x 2592 @ Q5",
+        "datarate" : 499,
+        "framerate" : 24
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 5:1",
+        "datarate" : 521,
+        "framerate" : 24
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 5:1",
+        "datarate" : 587,
+        "framerate" : 24
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 5:1",
+        "datarate" : 626,
+        "framerate" : 24
+      },
+      {
+        "name" : "4608 x 2592 @ 5:1",
+        "datarate" : 704,
+        "framerate" : 24
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 3:1",
+        "datarate" : 771,
+        "framerate" : 24
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 3:1",
+        "datarate" : 813,
+        "framerate" : 24
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 3:1",
+        "datarate" : 867,
+        "framerate" : 24
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 3:1",
+        "datarate" : 976,
+        "framerate" : 24
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 3:1",
+        "datarate" : 1041,
+        "framerate" : 24
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ Q0",
+        "datarate" : 1155,
+        "framerate" : 24
+      },
+      {
+        "name" : "4608 x 2592 @ 3:1",
+        "datarate" : 1171,
+        "framerate" : 24
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ Q0",
+        "datarate" : 1298,
+        "framerate" : 24
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ Q0",
+        "datarate" : 1461,
+        "framerate" : 24
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ Q0",
+        "datarate" : 1559,
+        "framerate" : 24
+      },
+      {
+        "name" : "4608 x 2592 @ Q0",
+        "datarate" : 1754,
+        "framerate" : 24
+      },
+      {
+        "name" : "1920 x 1080 @ 12:1",
+        "datarate" : 53,
+        "framerate" : 25
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 12:1",
+        "datarate" : 57,
+        "framerate" : 25
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 12:1",
+        "datarate" : 58,
+        "framerate" : 25
+      },
+      {
+        "name" : "1920 x 1080 @ 8:1",
+        "datarate" : 79,
+        "framerate" : 25
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 8:1",
+        "datarate" : 84,
+        "framerate" : 25
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 8:1",
+        "datarate" : 86,
+        "framerate" : 25
+      },
+      {
+        "name" : "1920 x 1080 @ Q5",
+        "datarate" : 90,
+        "framerate" : 25
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ Q5",
+        "datarate" : 97,
+        "framerate" : 25
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ Q5",
+        "datarate" : 103,
+        "framerate" : 25
+      },
+      {
+        "name" : "1920 x 1080 @ 5:1",
+        "datarate" : 127,
+        "framerate" : 25
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 5:1",
+        "datarate" : 136,
+        "framerate" : 25
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 5:1",
+        "datarate" : 145,
+        "framerate" : 25
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 12:1",
+        "datarate" : 202,
+        "framerate" : 25
+      },
+      {
+        "name" : "1920 x 1080 @ 3:1",
+        "datarate" : 212,
+        "framerate" : 25
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 12:1",
+        "datarate" : 213,
+        "framerate" : 25
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 3:1",
+        "datarate" : 226,
+        "framerate" : 25
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 12:1",
+        "datarate" : 227,
+        "framerate" : 25
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 3:1",
+        "datarate" : 241,
+        "framerate" : 25
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 12:1",
+        "datarate" : 256,
+        "framerate" : 25
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 12:1",
+        "datarate" : 273,
+        "framerate" : 25
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 8:1",
+        "datarate" : 299,
+        "framerate" : 25
+      },
+      {
+        "name" : "4608 x 2592 @ 12:1",
+        "datarate" : 307,
+        "framerate" : 25
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 8:1",
+        "datarate" : 315,
+        "framerate" : 25
+      },
+      {
+        "name" : "1920 x 1080 @ Q0",
+        "datarate" : 317,
+        "framerate" : 25
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 8:1",
+        "datarate" : 336,
+        "framerate" : 25
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ Q0",
+        "datarate" : 338,
+        "framerate" : 25
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ Q5",
+        "datarate" : 342,
+        "framerate" : 25
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ Q0",
+        "datarate" : 361,
+        "framerate" : 25
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ Q5",
+        "datarate" : 361,
+        "framerate" : 25
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 8:1",
+        "datarate" : 378,
+        "framerate" : 25
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ Q5",
+        "datarate" : 385,
+        "framerate" : 25
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 8:1",
+        "datarate" : 403,
+        "framerate" : 25
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ Q5",
+        "datarate" : 433,
+        "framerate" : 25
+      },
+      {
+        "name" : "4608 x 2592 @ 8:1",
+        "datarate" : 453,
+        "framerate" : 25
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ Q5",
+        "datarate" : 462,
+        "framerate" : 25
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 5:1",
+        "datarate" : 483,
+        "framerate" : 25
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 5:1",
+        "datarate" : 509,
+        "framerate" : 25
+      },
+      {
+        "name" : "4608 x 2592 @ Q5",
+        "datarate" : 520,
+        "framerate" : 25
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 5:1",
+        "datarate" : 543,
+        "framerate" : 25
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 5:1",
+        "datarate" : 611,
+        "framerate" : 25
+      },
+      {
+        "name" : "4608 x 2592 @ 5:1",
+        "datarate" : 733,
+        "framerate" : 25
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 5:1",
+        "datarate" : 782,
+        "framerate" : 25
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 3:1",
+        "datarate" : 803,
+        "framerate" : 25
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 3:1",
+        "datarate" : 847,
+        "framerate" : 25
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 3:1",
+        "datarate" : 904,
+        "framerate" : 25
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 3:1",
+        "datarate" : 1017,
+        "framerate" : 25
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ Q0",
+        "datarate" : 1203,
+        "framerate" : 25
+      },
+      {
+        "name" : "4608 x 2592 @ 3:1",
+        "datarate" : 1220,
+        "framerate" : 25
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ Q0",
+        "datarate" : 1269,
+        "framerate" : 25
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 3:1",
+        "datarate" : 1301,
+        "framerate" : 25
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ Q0",
+        "datarate" : 1353,
+        "framerate" : 25
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ Q0",
+        "datarate" : 1522,
+        "framerate" : 25
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ Q0",
+        "datarate" : 1624,
+        "framerate" : 25
+      },
+      {
+        "name" : "4608 x 2592 @ Q0",
+        "datarate" : 1827,
+        "framerate" : 25
+      },
+      {
+        "name" : "1920 x 1080 @ 12:1",
+        "datarate" : 64,
+        "framerate" : 30
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 12:1",
+        "datarate" : 68,
+        "framerate" : 30
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 12:1",
+        "datarate" : 73,
+        "framerate" : 30
+      },
+      {
+        "name" : "1920 x 1080 @ 8:1",
+        "datarate" : 94,
+        "framerate" : 30
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 8:1",
+        "datarate" : 101,
+        "framerate" : 30
+      },
+      {
+        "name" : "1920 x 1080 @ Q5",
+        "datarate" : 108,
+        "framerate" : 30
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 8:1",
+        "datarate" : 108,
+        "framerate" : 30
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ Q5",
+        "datarate" : 116,
+        "framerate" : 30
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ Q5",
+        "datarate" : 123,
+        "framerate" : 30
+      },
+      {
+        "name" : "1920 x 1080 @ 5:1",
+        "datarate" : 153,
+        "framerate" : 30
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 5:1",
+        "datarate" : 163,
+        "framerate" : 30
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 5:1",
+        "datarate" : 174,
+        "framerate" : 30
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 12:1",
+        "datarate" : 242,
+        "framerate" : 30
+      },
+      {
+        "name" : "1920 x 1080 @ 3:1",
+        "datarate" : 254,
+        "framerate" : 30
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 12:1",
+        "datarate" : 256,
+        "framerate" : 30
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 3:1",
+        "datarate" : 271,
+        "framerate" : 30
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 12:1",
+        "datarate" : 273,
+        "framerate" : 30
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 3:1",
+        "datarate" : 289,
+        "framerate" : 30
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 12:1",
+        "datarate" : 307,
+        "framerate" : 30
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 12:1",
+        "datarate" : 327,
+        "framerate" : 30
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 8:1",
+        "datarate" : 336,
+        "framerate" : 30
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 8:1",
+        "datarate" : 358,
+        "framerate" : 30
+      },
+      {
+        "name" : "4608 x 2592 @ 12:1",
+        "datarate" : 368,
+        "framerate" : 30
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 8:1",
+        "datarate" : 378,
+        "framerate" : 30
+      },
+      {
+        "name" : "1920 x 1080 @ Q0",
+        "datarate" : 381,
+        "framerate" : 30
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ Q0",
+        "datarate" : 406,
+        "framerate" : 30
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ Q5",
+        "datarate" : 411,
+        "framerate" : 30
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ Q0",
+        "datarate" : 433,
+        "framerate" : 30
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ Q5",
+        "datarate" : 433,
+        "framerate" : 30
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 8:1",
+        "datarate" : 453,
+        "framerate" : 30
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ Q5",
+        "datarate" : 462,
+        "framerate" : 30
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 8:1",
+        "datarate" : 484,
+        "framerate" : 30
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ Q5",
+        "datarate" : 520,
+        "framerate" : 30
+      },
+      {
+        "name" : "4608 x 2592 @ 8:1",
+        "datarate" : 544,
+        "framerate" : 30
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ Q5",
+        "datarate" : 555,
+        "framerate" : 30
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 5:1",
+        "datarate" : 579,
+        "framerate" : 30
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 5:1",
+        "datarate" : 611,
+        "framerate" : 30
+      },
+      {
+        "name" : "4608 x 2592 @ Q5",
+        "datarate" : 624,
+        "framerate" : 30
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 5:1",
+        "datarate" : 651,
+        "framerate" : 30
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 5:1",
+        "datarate" : 733,
+        "framerate" : 30
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 5:1",
+        "datarate" : 782,
+        "framerate" : 30
+      },
+      {
+        "name" : "4608 x 2592 @ 5:1",
+        "datarate" : 880,
+        "framerate" : 30
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 3:1",
+        "datarate" : 964,
+        "framerate" : 30
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 3:1",
+        "datarate" : 1017,
+        "framerate" : 30
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 3:1",
+        "datarate" : 1084,
+        "framerate" : 30
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 3:1",
+        "datarate" : 1220,
+        "framerate" : 30
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 3:1",
+        "datarate" : 1301,
+        "framerate" : 30
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ Q0",
+        "datarate" : 1443,
+        "framerate" : 30
+      },
+      {
+        "name" : "4608 x 2592 @ 3:1",
+        "datarate" : 1464,
+        "framerate" : 30
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ Q0",
+        "datarate" : 1522,
+        "framerate" : 30
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ Q0",
+        "datarate" : 1522,
+        "framerate" : 30
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ Q0",
+        "datarate" : 1624,
+        "framerate" : 30
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ Q0",
+        "datarate" : 1948,
+        "framerate" : 30
+      },
+      {
+        "name" : "4608 x 2592 @ Q0",
+        "datarate" : 2192,
+        "framerate" : 30
+      },
+      {
+        "name" : "1920 x 1080 @ 12:1",
+        "datarate" : 107,
+        "framerate" : 50
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 12:1",
+        "datarate" : 114,
+        "framerate" : 50
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 12:1",
+        "datarate" : 121,
+        "framerate" : 50
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 8:1",
+        "datarate" : 168,
+        "framerate" : 50
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 8:1",
+        "datarate" : 179,
+        "framerate" : 50
+      },
+      {
+        "name" : "1920 x 1080 @ Q5",
+        "datarate" : 181,
+        "framerate" : 50
+      },
+      {
+        "name" : "1920 x 1080 @ 8:1",
+        "datarate" : 189,
+        "framerate" : 50
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ Q5",
+        "datarate" : 193,
+        "framerate" : 50
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ Q5",
+        "datarate" : 205,
+        "framerate" : 50
+      },
+      {
+        "name" : "1920 x 1080 @ 5:1",
+        "datarate" : 255,
+        "framerate" : 50
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 5:1",
+        "datarate" : 272,
+        "framerate" : 50
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 5:1",
+        "datarate" : 290,
+        "framerate" : 50
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 12:1",
+        "datarate" : 404,
+        "framerate" : 50
+      },
+      {
+        "name" : "1920 x 1080 @ 3:1",
+        "datarate" : 424,
+        "framerate" : 50
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 12:1",
+        "datarate" : 426,
+        "framerate" : 50
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 3:1",
+        "datarate" : 452,
+        "framerate" : 50
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 12:1",
+        "datarate" : 454,
+        "framerate" : 50
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 3:1",
+        "datarate" : 482,
+        "framerate" : 50
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 12:1",
+        "datarate" : 511,
+        "framerate" : 50
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 12:1",
+        "datarate" : 545,
+        "framerate" : 50
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 8:1",
+        "datarate" : 597,
+        "framerate" : 50
+      },
+      {
+        "name" : "4608 x 2592 @ 12:1",
+        "datarate" : 613,
+        "framerate" : 50
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 8:1",
+        "datarate" : 630,
+        "framerate" : 50
+      },
+      {
+        "name" : "1920 x 1080 @ Q0",
+        "datarate" : 634,
+        "framerate" : 50
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 8:1",
+        "datarate" : 672,
+        "framerate" : 50
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ Q0",
+        "datarate" : 677,
+        "framerate" : 50
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ Q5",
+        "datarate" : 685,
+        "framerate" : 50
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ Q0",
+        "datarate" : 722,
+        "framerate" : 50
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ Q5",
+        "datarate" : 722,
+        "framerate" : 50
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 8:1",
+        "datarate" : 756,
+        "framerate" : 50
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ Q5",
+        "datarate" : 770,
+        "framerate" : 50
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 8:1",
+        "datarate" : 806,
+        "framerate" : 50
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ Q5",
+        "datarate" : 867,
+        "framerate" : 50
+      },
+      {
+        "name" : "4608 x 2592 @ 8:1",
+        "datarate" : 907,
+        "framerate" : 50
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ Q5",
+        "datarate" : 924,
+        "framerate" : 50
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 5:1",
+        "datarate" : 966,
+        "framerate" : 50
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 5:1",
+        "datarate" : 1019,
+        "framerate" : 50
+      },
+      {
+        "name" : "4608 x 2592 @ Q5",
+        "datarate" : 1040,
+        "framerate" : 50
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 5:1",
+        "datarate" : 1086,
+        "framerate" : 50
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 5:1",
+        "datarate" : 1222,
+        "framerate" : 50
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 5:1",
+        "datarate" : 1304,
+        "framerate" : 50
+      },
+      {
+        "name" : "4608 x 2592 @ 5:1",
+        "datarate" : 1467,
+        "framerate" : 50
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 3:1",
+        "datarate" : 1607,
+        "framerate" : 50
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 3:1",
+        "datarate" : 1694,
+        "framerate" : 50
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 3:1",
+        "datarate" : 1807,
+        "framerate" : 50
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 3:1",
+        "datarate" : 2033,
+        "framerate" : 50
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 3:1",
+        "datarate" : 2169,
+        "framerate" : 50
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ Q0",
+        "datarate" : 2406,
+        "framerate" : 50
+      },
+      {
+        "name" : "4608 x 2592 @ 3:1",
+        "datarate" : 2440,
+        "framerate" : 50
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ Q0",
+        "datarate" : 2537,
+        "framerate" : 50
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ Q0",
+        "datarate" : 2706,
+        "framerate" : 50
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ Q0",
+        "datarate" : 3044,
+        "framerate" : 50
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ Q0",
+        "datarate" : 3247,
+        "framerate" : 50
+      },
+      {
+        "name" : "4608 x 2592 @ Q0",
+        "datarate" : 3653,
+        "framerate" : 50
+      },
+      {
+        "name" : "1920 x 1080 @ 12:1",
+        "datarate" : 128,
+        "framerate" : 60
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 12:1",
+        "datarate" : 136,
+        "framerate" : 60
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 12:1",
+        "datarate" : 145,
+        "framerate" : 60
+      },
+      {
+        "name" : "1920 x 1080 @ 8:1",
+        "datarate" : 189,
+        "framerate" : 60
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 8:1",
+        "datarate" : 202,
+        "framerate" : 60
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 8:1",
+        "datarate" : 215,
+        "framerate" : 60
+      },
+      {
+        "name" : "1920 x 1080 @ Q5",
+        "datarate" : 217,
+        "framerate" : 60
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ Q5",
+        "datarate" : 231,
+        "framerate" : 60
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ Q5",
+        "datarate" : 247,
+        "framerate" : 60
+      },
+      {
+        "name" : "1920 x 1080 @ 5:1",
+        "datarate" : 306,
+        "framerate" : 60
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 5:1",
+        "datarate" : 326,
+        "framerate" : 60
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 5:1",
+        "datarate" : 348,
+        "framerate" : 60
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 12:1",
+        "datarate" : 485,
+        "framerate" : 60
+      },
+      {
+        "name" : "1920 x 1080 @ 3:1",
+        "datarate" : 508,
+        "framerate" : 60
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 12:1",
+        "datarate" : 511,
+        "framerate" : 60
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ 3:1",
+        "datarate" : 542,
+        "framerate" : 60
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 12:1",
+        "datarate" : 545,
+        "framerate" : 60
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ 3:1",
+        "datarate" : 578,
+        "framerate" : 60
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 12:1",
+        "datarate" : 613,
+        "framerate" : 60
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 12:1",
+        "datarate" : 654,
+        "framerate" : 60
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 8:1",
+        "datarate" : 716,
+        "framerate" : 60
+      },
+      {
+        "name" : "4608 x 2592 @ 12:1",
+        "datarate" : 736,
+        "framerate" : 60
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 8:1",
+        "datarate" : 756,
+        "framerate" : 60
+      },
+      {
+        "name" : "1920 x 1080 @ Q0",
+        "datarate" : 761,
+        "framerate" : 60
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 8:1",
+        "datarate" : 806,
+        "framerate" : 60
+      },
+      {
+        "name" : "2048 x 1080 (2K DCI) @ Q0",
+        "datarate" : 812,
+        "framerate" : 60
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ Q5",
+        "datarate" : 822,
+        "framerate" : 60
+      },
+      {
+        "name" : "2048 x 1152 (2K 16:9) @ Q0",
+        "datarate" : 866,
+        "framerate" : 60
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ Q5",
+        "datarate" : 867,
+        "framerate" : 60
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 8:1",
+        "datarate" : 907,
+        "framerate" : 60
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ Q5",
+        "datarate" : 924,
+        "framerate" : 60
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 8:1",
+        "datarate" : 967,
+        "framerate" : 60
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ Q5",
+        "datarate" : 1040,
+        "framerate" : 60
+      },
+      {
+        "name" : "4608 x 2592 @ 8:1",
+        "datarate" : 1088,
+        "framerate" : 60
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ Q5",
+        "datarate" : 1109,
+        "framerate" : 60
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 5:1",
+        "datarate" : 1159,
+        "framerate" : 60
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 5:1",
+        "datarate" : 1222,
+        "framerate" : 60
+      },
+      {
+        "name" : "4608 x 2592 @ Q5",
+        "datarate" : 1248,
+        "framerate" : 60
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 5:1",
+        "datarate" : 1304,
+        "framerate" : 60
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 5:1",
+        "datarate" : 1467,
+        "framerate" : 60
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 5:1",
+        "datarate" : 1564,
+        "framerate" : 60
+      },
+      {
+        "name" : "4608 x 2592 @ 5:1",
+        "datarate" : 1760,
+        "framerate" : 60
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ 3:1",
+        "datarate" : 1928,
+        "framerate" : 60
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ 3:1",
+        "datarate" : 2033,
+        "framerate" : 60
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ 3:1",
+        "datarate" : 2169,
+        "framerate" : 60
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ 3:1",
+        "datarate" : 2440,
+        "framerate" : 60
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ 3:1",
+        "datarate" : 2602,
+        "framerate" : 60
+      },
+      {
+        "name" : "3072 x 2560 (3K Anamorphic) @ Q0",
+        "datarate" : 2887,
+        "framerate" : 60
+      },
+      {
+        "name" : "4608 x 2592 @ 3:1",
+        "datarate" : 2928,
+        "framerate" : 60
+      },
+      {
+        "name" : "3840 x 2160 (Ultra HD) @ Q0",
+        "datarate" : 3044,
+        "framerate" : 60
+      },
+      {
+        "name" : "4608 x 1920 (4.6K 2.40:1) @ Q0",
+        "datarate" : 3247,
+        "framerate" : 60
+      },
+      {
+        "name" : "4096 x 2160 (4K DCI) @ Q0",
+        "datarate" : 3653,
+        "framerate" : 60
+      },
+      {
+        "name" : "4096 x 2304 (4K 16:9) @ Q0",
+        "datarate" : 3897,
+        "framerate" : 60
+      },
+      {
+        "name" : "4608 x 2592 @ Q0",
+        "datarate" : 4384,
+        "framerate" : 60
+      }
+    ]
+  }
+]
