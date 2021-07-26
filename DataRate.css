@@ -1,0 +1,49 @@
+
+@font-face {
+  font-family: 'Roboto', sans-serif;
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+</style>
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto', sans-serif;
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+</style>
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.EMSCBlock
+{
+	color: #d8d5d5;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	background-color: #ccc00;
+	padding: 10px;
+	margin: 20px;
+	display: block;
+}
+
+.EMSCBlock a
+{
+	color: #ab3434;
+	text-decoration: inherit;
+	color: #4e0c0c279699;
+}
+
+.EMSCBlock h2
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	text-decoration: none;
+	margin: 4px 0px 4px 0px;
+	-webkit-margin-before: 0;
+}
+
+
